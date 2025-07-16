@@ -134,3 +134,8 @@ This project is open-source and available under the [MIT License](LICENSE).
 - Laravel Docs
 - ReactJS Docs
 - TailwindCSS
+
+📬 Contact
+Author: Touqeer fazal
+Email: touqeerfazal1992@gmail.com
+GitHub: github.com/touqeer16
