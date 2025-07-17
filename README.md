@@ -4,6 +4,13 @@ A modern Point of Sale (POS) system designed to streamline sales, inventory, and
 
 ---
 
+
+![Top Language](https://img.shields.io/github/languages/top/touqeer16/pos-system)
+![Repo Size](https://img.shields.io/github/repo-size/touqeer16/pos-system)
+![License](https://img.shields.io/github/license/touqeer16/pos-system)
+
+---
+
 ## 🚀 Features
 
 ### ✅ Sales & Billing
