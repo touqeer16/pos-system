@@ -2,12 +2,6 @@
 
 A modern Point of Sale (POS) system designed to streamline sales, inventory, and customer management. Built with Laravel (RESTful API) and ReactJS (SPA frontend), this system provides a responsive, fast, and user-friendly experience for retail businesses.
 
----
-
-
-![Top Language](https://img.shields.io/github/languages/top/touqeer16/pos-system)
-![Repo Size](https://img.shields.io/github/repo-size/touqeer16/pos-system)
-![License](https://img.shields.io/github/license/touqeer16/pos-system)
 
 ---
 
